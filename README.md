@@ -1,6 +1,11 @@
-# Leetcode-Data-Structures-and-Algorithms-Python
-My curated collection of LeetCode DSA solutions in python with detailed explanations. Documenting my problem-solving journey through patterns, optimizations, and lessons learned.
+# Problem Solving Archive 🚀
 
+This repository serves as a centralized hub for all my LeetCode submissions. It contains optimized solutions for Data Structures, Algorithms, and Database queries.
+
+## 🛠️ Languages & Tools
+- **Python:** Data Structures and Algorithms (DSA).
+- **MySQL:** Relational Database management and complex queries.
+- **Bash/Shell:** Scripting and automation challenges.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
